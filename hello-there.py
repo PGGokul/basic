@@ -8,3 +8,4 @@ if x.status_code == 200:
  print('yay!')
 else:
  print('uh-oh!')
+ print('hello')
